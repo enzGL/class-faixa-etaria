@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enzo.glanzi\\source\\repos\\Faixa etaria 19 11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71786779-6B5D-44E6-86D6-B769D13D059F}|Faixa etaria 19 11\\Faixa etaria 19 11.csproj|c:\\users\\enzo.glanzi\\source\\repos\\faixa etaria 19 11\\faixa etaria 19 11\\faixaetaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71786779-6B5D-44E6-86D6-B769D13D059F}|Faixa etaria 19 11\\Faixa etaria 19 11.csproj|solutionrelative:faixa etaria 19 11\\faixaetaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "faixaetaria.cs",
+              "DocumentMoniker": "C:\\Users\\enzo.glanzi\\source\\repos\\Faixa etaria 19 11\\Faixa etaria 19 11\\faixaetaria.cs",
+              "RelativeDocumentMoniker": "Faixa etaria 19 11\\faixaetaria.cs",
+              "ToolTip": "C:\\Users\\enzo.glanzi\\source\\repos\\Faixa etaria 19 11\\Faixa etaria 19 11\\faixaetaria.cs",
+              "RelativeToolTip": "Faixa etaria 19 11\\faixaetaria.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwD0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:19:19.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
